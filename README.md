@@ -6,10 +6,10 @@
 <h3> Navagation </h3>
 Below is a list of links to the different Markdown documents for this site. 
 
-**1.** [Professional Life](URL FOR GITHUB) 
-**2.** [Family Life](URL FOR GITHUB)
-**3.** [Travel](URL FOR GITHUB)
-**4.** [Fun Page](URL FOR GITHUB)
+1. Professional Life(URL FOR GITHUB) 
+2. Family Life(URL FOR GITHUB)
+3. Travel(URL FOR GITHUB)
+4. Fun Page(URL FOR GITHUB)
 
 
 
