@@ -1,20 +1,35 @@
-# <p style="text-align:center;">A Website All About Me </p>
- <p style="text-align:center;">By: **Alex Bohrer** </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The purpose of this website is to explore the possibilities of using markdown to create a website that is all about me and my professional life. My main goal in this project is to enhance my skills in web devloapment to prepare me for harder classes I will need to take. Also I want to use this as a way to post my personal coding projects so they are viewable and accessable to anyone who is interested. 
+# <p style="text-align:center;">Home Page</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my first website! This is the home page and it will serve as the central hub where users may navigate to other markdown documents about me and other things I am interested in. This site will be managed in a GitHub repository so I may gain experience with git, as well as experience using Markdown.
+
+*This site will have:*
+
+- Paragraphs
+- Headers 
+- Bold and Italicized text 
+- Lists (ordered and unordered)
+- A block of my own code
+- Links between the markdown pages
+- Links to images hosted on the web
+- Links to other websites
+- Images hosted on github
 
 
-<h3> Navagation </h3>
-Below is a list of links to the different Markdown documents for this site. 
+## Navigation 
 
-1. Professional Life(URL FOR GITHUB) 
-2. Family Life(URL FOR GITHUB)
-3. Travel(URL FOR GITHUB)
-4. Fun Page(URL FOR GITHUB)
+1. [Why I'm IT](C:\Users\Alex\Desktop\MIZZOU\Fall 2019\IT1000\Final Project\Final-Project-IT1000\Why_I'm_IT.md)
+
+2. [Professional Page](C:\Users\Alex\Desktop\MIZZOU\Fall 2019\IT1000\Final Project\Final-Project-IT1000\Professional_Page.md)
+
+3. [Hobbies](C:\Users\Alex\Desktop\MIZZOU\Fall 2019\IT1000\Final Project\Final-Project-IT1000\Hobbies.md)
+
+4. [Family Life](C:\Users\Alex\Desktop\MIZZOU\Fall 2019\IT1000\Final Project\Final-Project-IT1000\Family_Life.md)
+
+
+<p style="text-align:center;"> [Page 1/5][-->](C:\Users\Alex\Desktop\MIZZOU\Fall 2019\IT1000\Final Project\Final-Project-IT1000\Why_I'm_IT.md "Page 2")
 
 
 
 
-![](C:/Users/Alex/AppData/Local/Temp/u7yn6di1.bmp)
 
-<p style="text-align:center;"> [Professional Life -->](URL FOR GITHUB) </p>
-
+    
